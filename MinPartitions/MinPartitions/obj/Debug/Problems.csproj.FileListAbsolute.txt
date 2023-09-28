@@ -1,0 +1,8 @@
+C:\Users\pedro\Documents\Projetos\LeetCode\leetcode\MinPartitions\MinPartitions\bin\Debug\MinPartitions.exe.config
+C:\Users\pedro\Documents\Projetos\LeetCode\leetcode\MinPartitions\MinPartitions\bin\Debug\MinPartitions.exe
+C:\Users\pedro\Documents\Projetos\LeetCode\leetcode\MinPartitions\MinPartitions\bin\Debug\MinPartitions.pdb
+C:\Users\pedro\Documents\Projetos\LeetCode\leetcode\MinPartitions\MinPartitions\obj\Debug\Problems.csproj.AssemblyReference.cache
+C:\Users\pedro\Documents\Projetos\LeetCode\leetcode\MinPartitions\MinPartitions\obj\Debug\Problems.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Documents\Projetos\LeetCode\leetcode\MinPartitions\MinPartitions\obj\Debug\Problems.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Projetos\LeetCode\leetcode\MinPartitions\MinPartitions\obj\Debug\MinPartitions.exe
+C:\Users\pedro\Documents\Projetos\LeetCode\leetcode\MinPartitions\MinPartitions\obj\Debug\MinPartitions.pdb
