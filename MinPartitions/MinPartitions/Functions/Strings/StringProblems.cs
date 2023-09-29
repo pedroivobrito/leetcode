@@ -46,5 +46,20 @@ namespace LeetCode.Functions
 
             return result;
         }
+
+        public string Interpret(string command) => command.Replace("()", "o").Replace("(al)", "al");
+
+        public int MostWordsFound(string[] sentences)
+        {
+            int result = 0;
+
+            foreach (string sent in sentences)
+            {
+                int count = sent.Split(' ').Length;
+
+                result = count > result ? count : result;
+            }
+            return result;
+        }
     }
 }

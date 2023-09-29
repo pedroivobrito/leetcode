@@ -50,6 +50,22 @@ namespace Problems
                         Console.WriteLine("Result: " + new StringProblems().NumJewelsInStones(jewels, stones));
 
                         break;
+                    case 1678:
+                        Console.WriteLine("Goal Parser Interpretation");
+                        Console.WriteLine("Type the initial string:");
+                        string goal = Console.ReadLine();
+
+                        Console.WriteLine("Result: " + new StringProblems().Interpret(goal));
+
+                        break;
+                    case 2114:
+                        Console.WriteLine("Maximum Number of Words Found in Sentences");
+                        Console.WriteLine("Type the strings separated by commas:");
+                        string[] strings2114 = Console.ReadLine().Split(',');
+
+                        Console.WriteLine("Result: " + new StringProblems().MostWordsFound(strings2114));
+
+                        break;
                 }
             }while(true);
         }
